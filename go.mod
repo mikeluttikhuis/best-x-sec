@@ -1,4 +1,4 @@
-module best-x-sec
+module github.com/mikeluttikhuis/best-x-sec
 
 go 1.18
 
